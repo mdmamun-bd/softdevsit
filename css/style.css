@@ -52,11 +52,10 @@ body{
     width: auto;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 800px;
+    height: 640px;
     object-fit: cover;
-    background-position: center;
+    background-position: start;
     display: flex;
-    
     align-items:center;
     position: relative;
    
